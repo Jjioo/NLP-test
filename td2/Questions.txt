@@ -1,0 +1,6 @@
+1- importer le fichier reaganomics.txt
+2- tokanier les mots
+3- eliminer les stop words en utilisant 
+4- edentifier les NER existant
+5- appliquer le matcher sur un paragraphe
+6-

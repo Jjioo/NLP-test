@@ -1,0 +1,24 @@
+1. **`re` (Regular Expressions):**
+   - powerful tool for pattern matching and text manipulation.
+   - used for tasks such as text cleaning, extraction of specific patterns,and searching for particular sequences of characters in text.
+
+2. **`spacy`:**
+   - provides tools for various NLP tasks, including tokenization, part-of-speech tagging, named entity recognition, and more.
+   - used for processing and analyzing text in a structured way. It's efficient and designed for production use, making it suitable for a wide range of NLP applications.
+
+3. **`nltk` (Natural Language Toolkit):**
+   - natural language processing and computational linguistics. It includes tools for tasks like tokenization, stemming, lemmatization, part-of-speech tagging, and more.
+   - used for educational purposes and research in NLP.
+
+4. **`spacy.matcher.Matcher`:**
+   - The `Matcher` class in SpaCy allows you to define rules to match sequences of tokens in a document.
+   - extracting information based on predefined patterns. For example, you can use the `Matcher` to identify specific phrases or structures in a text.
+
+5. **`nltk.corpus.stopwords`:**
+   - Stopwords are common words (e.g., "the," "and," "is") that are often removed during text preprocessing to focus on more meaningful words.
+   - Removing stopwords is a common step in text processing to improve the efficiency of downstream tasks like sentiment analysis, text classification, and topic modeling. The `stopwords` module in NLTK provides a list of common stopwords.
+
+
+"punkt" refers to the Punkt tokenizer.
+The Punkt tokenizer is a pre-trained unsupervised machine learning model for tokenizing text into sentences.
+Tokenization is the process of breaking a text into individual units, such as words or sentences. 

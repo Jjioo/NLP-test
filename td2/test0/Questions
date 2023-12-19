@@ -1,0 +1,7 @@
+Questions:
+1-En utilisant NLTK, trouvez le nombre total de mots dans le fichier "reaganomics.txt".
+2-Utilisez spaCy pour identifier et afficher les entités nommées (NER) dans le fichier "reaganomics.txt".
+3-Appliquez la lemmatisation sur le texte en utilisant spaCy.
+4-En utilisant spaCy, affichez les 10 premiers mots et leurs vecteurs associés du modèle en_core_web_lg.
+5-Utilisez NLTK pour effectuer une analyse de sentiment sur le fichier "reaganomics.txt".
+6-En utilisant spaCy, effectuez une analyse de similarité de document entre les deux premiers paragraphes du fichier "reaganomics.txt".
